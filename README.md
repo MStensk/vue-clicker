@@ -1,6 +1,6 @@
 # vue-clicker-game
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple cookie clicker like game. Your purpose is to eliminate all life on the planet. Click for kills, open shop for upgrades.
 
 ## Recommended IDE Setup
 
